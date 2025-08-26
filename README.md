@@ -5,7 +5,7 @@
 
 **M.S. Thesis (Co-advised)** — **Po-An Hsiung** (SoC, HW/SW Co-Design) & **Chun-Hsien Huang** (Reconfigurable SoC, Edge-AI)
 
-> **TL;DR**：以「數位 IC 設計思維」打造可重組的深度學習加速器，聚焦 **PR 切換成本** 與 **低功耗**。提出「多策略切換決策」：在 **Overlay / 單 RP / 雙 RP + Prefetch** 之間依模型與輸入條件動態選擇，整體以 **AXI 介面** 串接，採 **Verilog/HLS** 實作並於 **KV260 / PYNQ-Z2** 實機驗證。
+> 以「數位 IC 設計思維」打造可重組的深度學習加速器，聚焦 **PR 切換成本** 與 **低功耗**。提出「多策略切換決策」：在 **Overlay / 單 RP / 雙 RP + Prefetch** 之間依模型與輸入條件動態選擇，整體以 **AXI 介面** 串接，採 **Verilog/HLS** 實作並於 **KV260 / PYNQ-Z2** 實機驗證。
 
 ---
 
