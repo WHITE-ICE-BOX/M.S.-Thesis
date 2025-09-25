@@ -5,7 +5,7 @@
 
 **M.S. Thesis (Co-advised)** — **Po-An Hsiung** (SoC, HW/SW Co-Design) & **Chun-Hsien Huang** (Reconfigurable SoC, Edge-AI)
 
-> **即時多策略切換 AI 加速器之 RTL/FPGA 架構設計** 提出「多策略切換決策」：在 **純硬體AI硬體切換 / 部分硬體 RP AI切換/ 全AI應用切換** 之間依模型與輸入條件動態選擇，整體以 **AXI 介面** 串接，採 **Verilog/HLS** 實作並於 **KV260 / PYNQ-Z2** 實機驗證。
+> **即時多策略切換 AI 加速器之 RTL/FPGA 架構設計** 提出「多策略切換決策」：在 **純硬體AI硬體切換 / 部分硬體 RP AI切換/ 全AI應用切換** 之間依模型與輸入條件選擇，整體以 **AXI 介面** 串接，採 **Verilog/HLS** 實作並於 **KV260 / PYNQ-Z2** 實機驗證。
 
 ---
 
