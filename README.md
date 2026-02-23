@@ -1,7 +1,7 @@
 
 ---
 
-# M.S. Thesis – RTL/FPGA Architecture Design of a Real-Time Multi-Strategy Switching AI Accelerator.
+# M.S. Thesis – 支持即時多任務切換之 AI 加速器架構設計.
 
 **M.S. Thesis (Co-advised)** — **Po-An Hsiung** (SoC, HW/SW Co-Design) & **Chun-Hsien Huang** (Reconfigurable SoC, Edge-AI)
 
